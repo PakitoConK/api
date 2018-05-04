@@ -33,3 +33,9 @@ Campo        | Descripción
 ------------ | -----------
 total | 65
 list | ```[10]``` registros del 21 al 30 
+
+
+### Dominio Base
+
+El dominio base para la conexión al api es ```api.beepquest.com``` *ejemplo* ```api.beepquest.com/v1/question_engine_answers&...```
+
