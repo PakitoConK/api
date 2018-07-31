@@ -5,8 +5,8 @@ Ejemplos de conexion
 
 Ejemplos disponibles:
 - [Node](/node)
-- **PHP** Pendiente
+- [PHP con CURL](/php) @PakitoConK
 - **C#** Pendiente
-- **Python** Pendiente
+- [Python](/python3) @ninofnj
 - **Java** Pendiente
-- [Postman](/postman)
+- [Postman](/postman) @ChavaNava
